@@ -30,4 +30,5 @@ def Number_Game():
             print("You are blocked")
     except ValueError:
         print("Please enter a valid number!\n")
+
 Number_Game()
